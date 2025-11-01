@@ -60,18 +60,18 @@ author:
   avatar : "/assets/images/eu_gpt.png"
   bio    : "This an economist blogpost about how we can use AI to build value"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
+    - label: "LinkedIn"
+      icon: "linkedin fa-fw fa-linkedin"
+      url: "https://www.linkedin.com-rafael-cattan/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
